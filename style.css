@@ -1,4 +1,11 @@
-header{
-    background-color:#888181;
+.cabecalho{
+    background-color:#000000;
     color: white;
+    display: flex;
+    justify-content: space-around
+    cabecalho-lista-item = inline-block
 }
+    .cabeçalho-imagem{
+width: 40%;
+}
+
